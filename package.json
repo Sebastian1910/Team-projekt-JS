@@ -9,10 +9,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/goitacademy/parcel-project-template.git"
-  },
-  "repository": {
-    "type": "git",
     "url": "git+https://github.com/migace/parcel-project-template-pl-main.git"
   },
   "keywords": [],
